@@ -1,10 +1,11 @@
 # Movies List
 
 ## What is this demo?
-    In this demo List of objects id coverd in Dart and ListView in Flutter.
+  In this demo List of objects id coverd in Dart and ListView in Flutter.
+  You dont need a starting point in this demo.
 
 ## What are the objectives?
-    The student must learn how to create a list of objects and view them in a Flutter app.
+   The student must learn how to create a list of objects and view them in a Flutter app.
 
 ## Steps
 
