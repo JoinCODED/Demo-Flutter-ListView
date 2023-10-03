@@ -20,7 +20,6 @@
 8. Create a main function 
 9. Loop through them and print in console
 
-Task: nested maps
 
 ### Part 2: Flutter ListView
 1.  Create a pages folder in lib folder 
